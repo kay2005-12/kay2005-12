@@ -81,6 +81,16 @@
   <img src="https://img.shields.io/badge/LoRA-7952B3?style=flat-square&logoColor=white" height="28" alt="LoRA" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/QLoRA-5C4EE5?style=flat-square&logoColor=white" height="28" alt="QLoRA" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Supervised_Fine--Tuning_(SFT)-00897B?style=flat-square&logoColor=white" height="28" alt="Supervised Fine-Tuning" />
+</p>
+
+### 🤖 Qwen Model
+
+<p align="left">
+  <a href="https://qwenlm.github.io/">
+    <img src="https://img.shields.io/badge/Qwen-6E49CB?style=for-the-badge&logoColor=white" height="36" alt="Qwen Models" />
+  </a>
 </p>
 
 
