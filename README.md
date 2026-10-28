@@ -85,15 +85,6 @@
   <img src="https://img.shields.io/badge/Supervised_Fine--Tuning_(SFT)-00897B?style=flat-square&logoColor=white" height="28" alt="Supervised Fine-Tuning" />
 </p>
 
-### 🤖 Qwen Model
-
-<p align="left">
-  <a href="https://qwenlm.github.io/">
-    <img src="https://img.shields.io/badge/Qwen-6E49CB?style=for-the-badge&logoColor=white" height="36" alt="Qwen Models" />
-  </a>
-</p>
-
-
 ### ⚙️ Automation & Development Tools
 
 <p align="left">
