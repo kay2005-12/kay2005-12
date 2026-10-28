@@ -1,17 +1,15 @@
 
-# 👋 Hi, I'm Syed Kaysan Ul Islam
+<h1 align="center">👋 Hi, I'm Syed Kaysan Ul Islam</h1>
 
-### 🎓 B.Tech Student | AI/ML & Generative AI Enthusiast
+<h3 align="center">🎓 B.Tech Student | AI/ML & Generative AI Enthusiast</h3>
 
-I'm an Artificial Intelligence and Machine Learning student passionate about building practical AI solutions using **Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Automation**.
+<p align="center">
+  Passionate about building practical AI solutions using Machine Learning, LLMs, RAG, and AI Automation.
+</p>
 
-I enjoy developing intelligent applications that combine machine learning, information retrieval, and automation to solve real-world problems.
-
-- 🔭 **Currently working on:** RAG applications and AI-powered automation workflows
-- 🧠 **Core interests:** Machine Learning, Generative AI, RAG, and Agentic AI
-- 🛠️ **Tools I work with:** Python, LangChain, LangGraph, n8n, and Streamlit
-- 📚 **Currently learning:** LLM fine-tuning, LoRA/QLoRA, and advanced RAG evaluation
-- 🎯 **Goal:** Build reliable, useful, and practical AI applications
+<p align="center">
+  🔭 Exploring RAG & AI Automation • 🧠 Learning LLM Fine-Tuning • 🚀 Building Practical AI Projects
+</p>
 
 ---
 
@@ -39,7 +37,7 @@ I enjoy developing intelligent applications that combine machine learning, infor
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FFAA00?style=flat-square&logoColor=black)
 ![PEFT](https://img.shields.io/badge/PEFT-6A5ACD?style=flat-square&logoColor=white)
-![LoRA](https://img.shields.io/badge/LoRA%20%2F%20QLoRA-7952B3?style=flat-square&logoColor=white)
+![LoRA / QLoRA](https://img.shields.io/badge/LoRA%20%2F%20QLoRA-7952B3?style=flat-square&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
 
@@ -47,7 +45,7 @@ I enjoy developing intelligent applications that combine machine learning, infor
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/Retrieval--Augmented_Generation-4B32C3?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B32C3?style=flat-square&logoColor=white)
 ![Agentic RAG](https://img.shields.io/badge/Agentic_RAG-5C4EE5?style=flat-square&logoColor=white)
 ![Typesense](https://img.shields.io/badge/Typesense_Vector_Search-D63AFF?style=flat-square&logoColor=white)
 ![Embeddings](https://img.shields.io/badge/Embeddings-00897B?style=flat-square&logoColor=white)
@@ -69,96 +67,39 @@ I enjoy developing intelligent applications that combine machine learning, infor
 
 ## 🚀 Featured Projects
 
-### 1. 🎓 AI-Powered College Information and Assistant System
+### 🎓 AI-Powered College Information and Assistant System
 
-An AI-powered college information system that combines website monitoring, automated Telegram notifications, and a RAG-based conversational assistant.
+An AI-powered system that automates college notice notifications through n8n and Telegram, with a RAG-based assistant for answering college-related questions through the same bot.
 
-**Key Features**
-- Automates college website information workflows using n8n.
-- Detects new college notices and sends notifications to users through a Telegram bot.
-- Provides a RAG-based assistant for answering questions using available college information.
-- Uses the same Telegram bot for both notice notifications and conversational queries.
+**Technologies:** Python, n8n, Telegram Bot API, RAG, LLMs, Embeddings
 
-**Workflow**
+### ⚽ Debate-Focused RAG System
 
-`College Website → n8n Automation → Notice Detection → Telegram Notifications`
-
-`College Information → Document Processing → Embeddings → Retrieval → LLM Response → Telegram Bot`
-
-**Technologies:** Python, n8n, Telegram Bot API, RAG, LLMs, Embeddings, Vector Search
-
----
-
-### 2. ⚽ Debate-Focused RAG System
-
-A Retrieval-Augmented Generation application designed to support football-related debates by retrieving relevant information and using it to provide context-aware responses.
-
-**Key Features**
-- Document ingestion and processing.
-- Embedding generation and semantic retrieval.
-- MongoDB Atlas Vector Search for retrieving relevant context.
-- Context-aware responses generated using an LLM.
+A football-focused RAG application that retrieves relevant context from MongoDB Atlas Vector Search to support context-aware debate responses.
 
 **Technologies:** Python, RAG, Embeddings, MongoDB Atlas Vector Search, LLMs
 
-🔗 **Repository:** [debate-ft-rag](https://github.com/kay2005-12/debate-ft-rag)
+### 🎯 Student Risk Prediction System
 
----
+A machine learning system that predicts student academic risk using academic and engagement-related features.
 
-### 3. 🎯 Student Risk Prediction System
+**Technologies:** Python, Pandas, Scikit-learn, XGBoost, Gradient Boosting, Joblib
 
-A machine learning project designed to identify students who may be academically at risk based on relevant academic and engagement-related features.
+### 📄 AI Resume Screening System
 
-**Key Features**
-- Data preprocessing and feature engineering.
-- Uses attendance, assignment completion, academic performance, and assessment-related features.
-- Trains and compares XGBoost and Gradient Boosting classifiers.
-- Evaluates model performance using classification metrics and a confusion matrix.
-- Saves the trained model for reuse.
+A resume-screening application that extracts PDF text and ranks resumes against a job description using TF-IDF and cosine similarity.
 
-**Technologies:** Python, Pandas, NumPy, Scikit-learn, XGBoost, Gradient Boosting, Joblib
+**Technologies:** Python, pdfplumber, NLTK, Scikit-learn, Streamlit
 
----
+### 💬 AI Chatbot
 
-### 4. 📄 AI Resume Screening System
+An intent-based chatbot that uses text processing and TF-IDF cosine similarity to match user messages with suitable responses.
 
-A resume-screening application that compares resumes against a job description using text processing and similarity-based ranking.
+**Technologies:** Python, NLP, Scikit-learn, Streamlit
 
-**Key Features**
-- Extracts text from PDF resumes.
-- Processes resume and job-description text.
-- Uses TF-IDF vectorization and cosine similarity.
-- Ranks resumes based on their similarity to the job description.
-- Provides a Streamlit interface for interactive screening.
+### ✍️ AI Content Creator
 
-**Technologies:** Python, pdfplumber, NLTK, TF-IDF, Scikit-learn, Streamlit
-
----
-
-### 5. 💬 AI Chatbot
-
-A Python-based chatbot that matches user messages against predefined intents and selects an appropriate response using text similarity.
-
-**Key Features**
-- Intent-based conversational responses.
-- Text preprocessing and TF-IDF vectorization.
-- Cosine similarity for matching user queries.
-- Similarity threshold for response selection.
-- Streamlit-based user interface.
-
-**Technologies:** Python, NLP, Scikit-learn, TF-IDF, Cosine Similarity, Streamlit
-
----
-
-### 6. ✍️ AI Content Creator
-
-An AI-powered content generation application for creating blog posts and social media captions based on user preferences.
-
-**Key Features**
-- Generates blog content and social media captions.
-- Supports configurable tone, platform, and content length.
-- Integrates an LLM API for content generation.
-- Provides options to refine, review, and download generated content.
+An AI-powered application for generating and refining blog posts and social media captions based on user preferences.
 
 **Technologies:** Python, Gemini API, Streamlit, Generative AI
 
@@ -168,9 +109,9 @@ An AI-powered content generation application for creating blog posts and social 
 
 - 🧠 LLM fundamentals and Transformer architecture
 - 🔧 Parameter-Efficient Fine-Tuning (PEFT), LoRA, and QLoRA
-- 🔎 Advanced RAG and Agentic RAG architectures
+- 🔎 Advanced RAG and Agentic RAG
 - 📊 RAG evaluation and tracing with LangSmith
-- 🐳 Docker and deployment workflows for AI applications
+- 🐳 Docker and AI application deployment
 
 ---
 
