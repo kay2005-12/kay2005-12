@@ -15,44 +15,48 @@
 
 ## 🛠️ Languages and Tools
 
-**Programming & Data Science**
+### Programming & Data Science
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+<p align="left">
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="50" alt="SQL" /></a>
+  <a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" height="50" alt="Pandas" /></a>
+  <a href="https://numpy.org/"><img src="https://cdn.simpleicons.org/numpy/013243" height="50" alt="NumPy" /></a>
+</p>
 
-**AI / Machine Learning**
+### AI / Machine Learning
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+<p align="left">
+  <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" height="50" alt="Scikit-learn" /></a>
+  <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow" /></a>
+  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="PyTorch" /></a>
+</p>
 
-**Generative AI & RAG**
+`XGBoost` · `Matplotlib` · `NLP`
 
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4B32C3?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangSmith](https://img.shields.io/badge/LangSmith-RAG_Evaluation-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Typesense](https://img.shields.io/badge/Typesense-Vector_Search-D63AFF?style=flat-square&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### Generative AI & RAG
 
-**Automation & Development Tools**
+<p align="left">
+  <a href="https://huggingface.co/"><img src="https://skillicons.dev/icons?i=huggingface" height="50" alt="Hugging Face" /></a>
+  <a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="50" alt="LangChain" /></a>
+  <a href="https://ollama.com/"><img src="https://cdn.simpleicons.org/ollama/000000" height="50" alt="Ollama" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" /></a>
+</p>
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+`LLMs` · `RAG` · `Agentic RAG` · `LangGraph` · `Embeddings` · `Typesense Vector Search` · `LangSmith`
 
----
+### Automation & Development Tools
+
+<p align="left">
+  <a href="https://n8n.io/"><img src="https://skillicons.dev/icons?i=n8n" height="50" alt="n8n" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" /></a>
+  <a href="https://streamlit.io/"><img src="https://skillicons.dev/icons?i=streamlit" height="50" alt="Streamlit" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" /></a>
+</p>
+
+`Telegram Bot API` · `REST APIs` · `SQLite` · `Groq` · `Gemini API`
+
 
 ## 🚀 Projects
 
