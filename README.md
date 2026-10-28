@@ -26,7 +26,7 @@
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/numpy/013243" height="48" alt="NumPy" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="48" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" height="28" alt="Matplotlib" />
 </p>
 
 ### 🤖 AI / Machine Learning
