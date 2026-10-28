@@ -66,15 +66,6 @@
 
 ---
 
-## 🎓 Certifications & Achievements
-
-- **NPTEL** — Data Analytics with Python (Elite)
-- **IBM SkillsBuild** — Introduction to Large Language Models
-- **IBM SkillsBuild & CSRBOX** — Generative AI Bootcamp
-- **SIH 2025** — 4th Rank in Internal/Inter-College Selection
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
