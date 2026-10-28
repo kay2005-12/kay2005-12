@@ -4,7 +4,7 @@
 <h3 align="center">🎓 B.Tech Student | AI/ML & Generative AI Enthusiast</h3>
 
 <p align="center">
-  I'm passionate about building practical AI solutions using Machine Learning, LLMs, RAG, and AI Automation.
+  Passionate about building practical AI solutions using Machine Learning, LLMs, RAG, and AI Automation.
 </p>
 
 <p align="center">
@@ -15,48 +15,84 @@
 
 ## 🛠️ Languages and Tools
 
-### Programming & Data Science
+### 💻 Programming & Data Science
 
 <p align="left">
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" /></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="50" alt="SQL" /></a>
-  <a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" height="50" alt="Pandas" /></a>
-  <a href="https://numpy.org/"><img src="https://cdn.simpleicons.org/numpy/013243" height="50" alt="NumPy" /></a>
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="48" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="48" alt="MySQL / SQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="Pandas" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" alt="NumPy" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="48" alt="Matplotlib" />
 </p>
 
-### AI / Machine Learning
+### 🤖 AI / Machine Learning
 
 <p align="left">
-  <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" height="50" alt="Scikit-learn" /></a>
-  <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow" /></a>
-  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="PyTorch" /></a>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" alt="Scikit-learn" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="48" alt="TensorFlow" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="48" alt="PyTorch" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/keras/D00000" height="48" alt="Keras" />
 </p>
 
-`XGBoost` · `Matplotlib` · `NLP`
+<p>
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/NLP-0F766E?style=flat-square&logoColor=white" alt="NLP" />
+</p>
 
-### Generative AI & RAG
+### 🧠 Generative AI & RAG
 
 <p align="left">
-  <a href="https://huggingface.co/"><img src="https://skillicons.dev/icons?i=huggingface" height="50" alt="Hugging Face" /></a>
-  <a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="50" alt="LangChain" /></a>
-  <a href="https://ollama.com/"><img src="https://cdn.simpleicons.org/ollama/000000" height="50" alt="Ollama" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" /></a>
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" alt="Hugging Face" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="48" alt="LangChain" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ollama/666666" height="48" alt="Ollama" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="48" alt="MongoDB" />
 </p>
 
-`LLMs` · `RAG` · `Agentic RAG` · `LangGraph` · `Embeddings` · `Typesense Vector Search` · `LangSmith`
+<p>
+  <img src="https://img.shields.io/badge/LLMs-6C5CE7?style=flat-square&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG-4B32C3?style=flat-square&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Agentic_RAG-5C4EE5?style=flat-square&logoColor=white" alt="Agentic RAG" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Embeddings-00897B?style=flat-square&logoColor=white" alt="Embeddings" />
+  <img src="https://img.shields.io/badge/Typesense_Vector_Search-D63AFF?style=flat-square&logoColor=white" alt="Typesense Vector Search" />
+  <img src="https://img.shields.io/badge/LangSmith_RAG_Evaluation-1C3C3C?style=flat-square&logoColor=white" alt="LangSmith" />
+</p>
 
-### Automation & Development Tools
+### ⚙️ Automation & Development Tools
 
 <p align="left">
-  <a href="https://n8n.io/"><img src="https://skillicons.dev/icons?i=n8n" height="50" alt="n8n" /></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" /></a>
-  <a href="https://streamlit.io/"><img src="https://skillicons.dev/icons?i=streamlit" height="50" alt="Streamlit" /></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" /></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" /></a>
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="48" alt="Docker" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="48" alt="Streamlit" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" height="48" alt="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/181717" height="48" alt="GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="48" alt="Telegram" />
 </p>
 
-`Telegram Bot API` · `REST APIs` · `SQLite` · `Groq` · `Gemini API`
+<p>
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logoColor=white" alt="Telegram Bot API" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" alt="Groq" />
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini API" />
+</p>
 
+---
 
 ## 🚀 Projects
 
@@ -85,7 +121,7 @@
 
 ## 📫 Connect With Me
 
-<p>
+<p align="left">
   📧 <a href="mailto:kaysan8890@gmail.com">Email</a>
   &nbsp; · &nbsp;
   💻 <a href="https://github.com/kay2005-12">GitHub</a>
