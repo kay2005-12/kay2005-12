@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Syed Kaysan Ul Islam</h1>
 
-<h3 align="center">AI/ML Developer | Generative AI | RAG & AI Automation</h3>
+<h3 align="center">AI/ML Developer | Generative AI | RAG Systems & AI Automation</h3>
 
 <p align="center">
-  Building practical AI solutions with Python, Machine Learning,
-  Large Language Models, and Retrieval-Augmented Generation.
+  Building practical AI applications using Machine Learning, LLMs,
+  Retrieval-Augmented Generation, and intelligent automation.
 </p>
 
 <p align="center">
@@ -22,16 +22,17 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech student in Artificial Intelligence & Machine Learning, graduating in 2027.
-- 🤖 Interested in Machine Learning, Deep Learning, Generative AI, and AI-powered automation.
-- 🧠 Exploring RAG pipelines, vector search, embeddings, and LLM evaluation.
-- 🐍 Working with Python, data analysis, and machine learning workflows.
-- 🔧 Building practical AI applications and experimenting with different approaches.
-- 🌱 Learning about Transformer architecture, LLM fine-tuning, LoRA, and QLoRA.
+- 🤖 Interested in Machine Learning, Deep Learning, Generative AI, and LLM applications.
+- 🧠 Exploring RAG pipelines, vector search, embeddings, and retrieval evaluation.
+- 🔗 Building applications with LangChain, LangGraph, and LLM integrations.
+- ⚙️ Interested in AI agents, workflow orchestration, and AI-powered automation.
+- 🐳 Learning containerization and deployment workflows with Docker.
+- 🌱 Exploring Transformer architecture, LLM fine-tuning, LoRA, and QLoRA.
 - 🤝 Open to collaborating on meaningful AI/ML and GenAI projects.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### 💻 Programming & Data Analysis
 
@@ -56,77 +57,91 @@
 ### 🧠 Generative AI, LLMs & Fine-Tuning
 
 <p>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="Large Language Models"/>
-  <img src="https://img.shields.io/badge/LLM_Fine--Tuning-6C63FF?style=for-the-badge" alt="LLM Fine-Tuning"/>
-  <img src="https://img.shields.io/badge/LoRA_%26_QLoRA-8A2BE2?style=for-the-badge" alt="LoRA and QLoRA"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="LLMs"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge" alt="Transformers"/>
   <img src="https://img.shields.io/badge/PEFT-4B32C3?style=for-the-badge" alt="PEFT"/>
+  <img src="https://img.shields.io/badge/LoRA_%26_QLoRA-8A2BE2?style=for-the-badge" alt="LoRA and QLoRA"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+</p>
+
+### 🔗 RAG, Frameworks & Vector Search
+
+<p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/RAG-008080?style=for-the-badge" alt="Retrieval-Augmented Generation"/>
+  <img src="https://img.shields.io/badge/Agentic_RAG-6A5ACD?style=for-the-badge" alt="Agentic RAG"/>
+  <img src="https://img.shields.io/badge/Typesense_Vector_Search-D22128?style=for-the-badge&logo=typesense&logoColor=white" alt="Typesense Vector Search"/>
   <img src="https://img.shields.io/badge/Embeddings-6A5ACD?style=for-the-badge" alt="Embeddings"/>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/LangSmith_RAG_Evaluation-1C3C3C?style=for-the-badge" alt="LangSmith RAG Evaluation"/>
 </p>
 
-### ⚙️ Tools & Application Development
+### ⚙️ Tools, Automation & Deployment
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### ⚖️ Legal Advisor — Constitution-Based RAG
+### 🎓 AI-Powered College Assistant & Information System
 
-An AI-powered legal information assistant designed to retrieve and explain relevant provisions of the Constitution of India.
+An AI-powered college information assistant designed to help users access relevant academic and institutional information.
 
-**Focus:** RAG, document ingestion, embeddings, retrieval, and LLM-based responses.
+**Key Areas:** Generative AI, information retrieval, LLM integration, and conversational interfaces.
+
+### ⚽ Debate-Focused RAG System
+
+A Retrieval-Augmented Generation project designed around football debate content, using document retrieval to support context-aware responses.
+
+**Key Areas:** RAG pipelines, embeddings, semantic retrieval, vector search, and LLM-based response generation.
 
 ### 🎓 Student Risk Prediction System
 
 A machine learning project for identifying students who may be at academic risk using academic and attendance-related features.
 
-**Focus:** Data preprocessing, feature engineering, classification, model evaluation, and model persistence.
+**Key Areas:** Data preprocessing, feature engineering, classification, model comparison, evaluation metrics, and model persistence.
 
 ### 📄 AI Resume Screening
 
 A Python-based resume screening application that compares resumes against a job description using TF-IDF and cosine similarity.
 
-**Focus:** NLP, text extraction, similarity scoring, and Streamlit.
+**Key Areas:** NLP, PDF text extraction, similarity scoring, and Streamlit.
 
 ### 💬 AI Chatbot
 
 A Python chatbot that matches user messages against predefined intents using TF-IDF and cosine similarity.
 
-**Focus:** NLP, text similarity, intent matching, and application development.
+**Key Areas:** NLP, text similarity, intent matching, and application development.
 
 ### ✍️ AI Content Creator
 
 An AI-powered content generation application for creating blog posts and social media captions with configurable writing preferences.
 
-**Focus:** LLM integration, prompt engineering, and Streamlit.
-
-Explore my repositories for source code, implementation details, and project updates.
+**Key Areas:** LLM integration, prompt engineering, and Streamlit.
 
 ---
 
 ## 📚 Currently Learning
 
 - Large Language Model fundamentals and Transformer architecture
-- Retrieval-Augmented Generation and RAG evaluation
-- AI agents and agentic workflows
+- Advanced RAG pipelines and retrieval strategies
+- RAG evaluation and tracing with LangSmith
+- AI agents and agentic workflows with LangGraph
+- Vector search and semantic retrieval with Typesense
 - LoRA and QLoRA fine-tuning
-- Deep Learning fundamentals and neural networks
+- Docker-based development and deployment
 - Machine learning model evaluation and deployment
-- AI workflow automation
 
 ---
 
