@@ -1,243 +1,199 @@
 
-<h1 align="center">Syed Kaysan Ul Islam</h1>
+# 👋 Hi, I'm Syed Kaysan Ul Islam
 
-<h3 align="center">AI/ML Developer | Generative AI | RAG Systems | AI Automation</h3>
+### 🎓 B.Tech Student | AI/ML & Generative AI Enthusiast
 
-<p align="center">
-  Developing practical AI solutions with Machine Learning, Large Language Models,
-  Retrieval-Augmented Generation, and workflow automation.
-</p>
+I'm an Artificial Intelligence and Machine Learning student passionate about building practical AI solutions using **Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Automation**.
 
-<p align="center">
-  <a href="https://github.com/kay2005-12">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub"/>
-  </a>
-  <a href="mailto:kaysan8890@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+I enjoy developing intelligent applications that combine machine learning, information retrieval, and automation to solve real-world problems.
+
+- 🔭 **Currently working on:** RAG applications and AI-powered automation workflows
+- 🧠 **Core interests:** Machine Learning, Generative AI, RAG, and Agentic AI
+- 🛠️ **Tools I work with:** Python, LangChain, LangGraph, n8n, and Streamlit
+- 📚 **Currently learning:** LLM fine-tuning, LoRA/QLoRA, and advanced RAG evaluation
+- 🎯 **Goal:** Build reliable, useful, and practical AI applications
 
 ---
 
-## About Me
+## 🧰 Technical Skills
 
-- B.Tech student specializing in Artificial Intelligence and Machine Learning, graduating in 2027.
-- Interested in Machine Learning, Deep Learning, Generative AI, and LLM-powered applications.
-- Building RAG pipelines with embeddings, vector search, and context-aware response generation.
-- Exploring AI agents and workflow orchestration using LangChain, LangGraph, and n8n.
-- Working with Python, data analysis, machine learning workflows, and AI application development.
-- Learning about Transformer architecture, LLM fine-tuning, LoRA, QLoRA, and Docker.
-- Open to collaborating on practical AI/ML and Generative AI projects.
+### 💻 Programming & Data Analysis
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
 
-## Technical Skills
+### 🤖 Machine Learning & Deep Learning
 
-### Programming and Data Analysis
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
-</p>
+### 🧠 Generative AI & LLMs
 
-### Machine Learning and Deep Learning
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFAA00?style=flat-square&logoColor=black)
+![PEFT](https://img.shields.io/badge/PEFT-6A5ACD?style=flat-square&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA%20%2F%20QLoRA-7952B3?style=flat-square&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
-</p>
+### 🔎 RAG & AI Frameworks
 
-### Generative AI and LLMs
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/Retrieval--Augmented_Generation-4B32C3?style=flat-square&logoColor=white)
+![Agentic RAG](https://img.shields.io/badge/Agentic_RAG-5C4EE5?style=flat-square&logoColor=white)
+![Typesense](https://img.shields.io/badge/Typesense_Vector_Search-D63AFF?style=flat-square&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-00897B?style=flat-square&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith_RAG_Evaluation-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas_Vector_Search-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square" alt="Large Language Models"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square" alt="Transformers"/>
-  <img src="https://img.shields.io/badge/PEFT-4B32C3?style=flat-square" alt="PEFT"/>
-  <img src="https://img.shields.io/badge/LoRA_%26_QLoRA-8A2BE2?style=flat-square" alt="LoRA and QLoRA"/>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
-</p>
+### ⚙️ Automation & Development Tools
 
-### RAG, Frameworks and Vector Search
-
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/Retrieval--Augmented_Generation-008080?style=flat-square" alt="RAG"/>
-  <img src="https://img.shields.io/badge/Agentic_RAG-6A5ACD?style=flat-square" alt="Agentic RAG"/>
-  <img src="https://img.shields.io/badge/Typesense_Vector_Search-D22128?style=flat-square&logo=typesense&logoColor=white" alt="Typesense Vector Search"/>
-  <img src="https://img.shields.io/badge/Embeddings-6A5ACD?style=flat-square" alt="Embeddings"/>
-  <img src="https://img.shields.io/badge/LangSmith-RAG_Evaluation-1C3C3C?style=flat-square" alt="LangSmith RAG Evaluation"/>
-</p>
-
-### Automation, APIs and Development Tools
-
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bot API"/>
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 1. AI-Powered College Information and Assistant System
+### 1. 🎓 AI-Powered College Information and Assistant System
 
-An AI-powered college information system that combines automated notice monitoring with a conversational assistant, connecting college website information to students through a Telegram bot.
+An AI-powered college information system that combines website monitoring, automated Telegram notifications, and a RAG-based conversational assistant.
+
+**Key Features**
+- Automates college website information workflows using n8n.
+- Detects new college notices and sends notifications to users through a Telegram bot.
+- Provides a RAG-based assistant for answering questions using available college information.
+- Uses the same Telegram bot for both notice notifications and conversational queries.
 
 **Workflow**
 
-`College Website → n8n Workflow → Notice Detection → Telegram Notifications`
-
-**RAG Assistant**
+`College Website → n8n Automation → Notice Detection → Telegram Notifications`
 
 `College Information → Document Processing → Embeddings → Retrieval → LLM Response → Telegram Bot`
 
-**Key Components**
-- n8n workflows for automating college website information monitoring.
-- Detection and delivery of new college notices through Telegram bot notifications.
-- RAG-based question answering over available college information.
-- Telegram bot interface for receiving notices and asking college-related questions.
-- LLM integration and retrieval-based responses grounded in available source documents.
+**Technologies:** Python, n8n, Telegram Bot API, RAG, LLMs, Embeddings, Vector Search
 
-**Technologies:** n8n, Telegram Bot API, RAG, LLMs, embeddings, Python, and Typesense Vector Search where applicable.
+---
 
-### 2. Debate-Focused RAG System
+### 2. ⚽ Debate-Focused RAG System
 
-A football debate-oriented Retrieval-Augmented Generation project that uses retrieved document context to support more relevant, context-aware responses.
+A Retrieval-Augmented Generation application designed to support football-related debates by retrieving relevant information and using it to provide context-aware responses.
 
-**Key Components**
+**Key Features**
 - Document ingestion and processing.
 - Embedding generation and semantic retrieval.
-- Vector search using MongoDB Atlas Vector Search.
-- Context-aware LLM response generation.
+- MongoDB Atlas Vector Search for retrieving relevant context.
+- Context-aware responses generated using an LLM.
 
-**Technologies:** RAG, embeddings, MongoDB Atlas, vector search, and LLM integration.
+**Technologies:** Python, RAG, Embeddings, MongoDB Atlas Vector Search, LLMs
 
-### 3. Student Risk Prediction System
+🔗 **Repository:** [debate-ft-rag](https://github.com/kay2005-12/debate-ft-rag)
 
-A machine learning system for identifying students who may be at academic risk using academic performance, attendance, and assignment-related features.
+---
 
-**Key Components**
+### 3. 🎯 Student Risk Prediction System
+
+A machine learning project designed to identify students who may be academically at risk based on relevant academic and engagement-related features.
+
+**Key Features**
 - Data preprocessing and feature engineering.
-- Classification using XGBoost and Gradient Boosting.
-- Model comparison and evaluation metrics.
-- Model persistence for later inference.
+- Uses attendance, assignment completion, academic performance, and assessment-related features.
+- Trains and compares XGBoost and Gradient Boosting classifiers.
+- Evaluates model performance using classification metrics and a confusion matrix.
+- Saves the trained model for reuse.
 
-**Technologies:** Python, Pandas, Scikit-learn, XGBoost, and Joblib.
-
-### 4. AI Resume Screening
-
-A Python application that compares resumes against a job description using TF-IDF and cosine similarity.
-
-**Key Components**
-- PDF text extraction.
-- Text preprocessing and vectorization.
-- Resume similarity scoring.
-- Streamlit-based interface.
-
-**Technologies:** Python, pdfplumber, NLTK, Scikit-learn, and Streamlit.
-
-### 5. AI Chatbot
-
-A Python chatbot that matches user messages against predefined intents using TF-IDF and cosine similarity.
-
-**Key Components**
-- Intent-based response matching.
-- Text vectorization and similarity scoring.
-- Threshold-based response selection.
-- Interactive application development.
-
-**Technologies:** Python, NLP, Scikit-learn, and Streamlit.
-
-### 6. AI Content Creator
-
-An AI-powered application for generating blog posts and social media captions with configurable content preferences.
-
-**Key Components**
-- LLM integration and prompt engineering.
-- Configurable content type, tone, platform, and length.
-- Content refinement and generation history.
-- Generated content export.
-
-**Technologies:** Python, Streamlit, and Gemini API.
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, XGBoost, Gradient Boosting, Joblib
 
 ---
 
-## Currently Learning
+### 4. 📄 AI Resume Screening System
 
-- Transformer architecture and LLM fundamentals.
-- Advanced RAG pipelines and retrieval strategies.
-- RAG tracing and evaluation using LangSmith.
-- AI agents and workflow orchestration with LangGraph.
-- Semantic retrieval and vector search with Typesense.
-- LoRA and QLoRA fine-tuning.
-- Docker-based development and deployment.
-- Machine learning model evaluation and deployment.
+A resume-screening application that compares resumes against a job description using text processing and similarity-based ranking.
 
----
+**Key Features**
+- Extracts text from PDF resumes.
+- Processes resume and job-description text.
+- Uses TF-IDF vectorization and cosine similarity.
+- Ranks resumes based on their similarity to the job description.
+- Provides a Streamlit interface for interactive screening.
 
-## Achievements and Certifications
-
-- Outstanding performance — ISI Kolkata IDEAS Summer Internship 2026.
-- 4th rank — Smart India Hackathon 2025 internal/inter-college selection.
-- NPTEL — Data Analytics with Python (Elite).
-- IBM SkillsBuild — Introduction to Large Language Models.
-- IBM SkillsBuild & CSRBOX — Generative AI Bootcamp.
+**Technologies:** Python, pdfplumber, NLTK, TF-IDF, Scikit-learn, Streamlit
 
 ---
 
-## GitHub Statistics
+### 5. 💬 AI Chatbot
+
+A Python-based chatbot that matches user messages against predefined intents and selects an appropriate response using text similarity.
+
+**Key Features**
+- Intent-based conversational responses.
+- Text preprocessing and TF-IDF vectorization.
+- Cosine similarity for matching user queries.
+- Similarity threshold for response selection.
+- Streamlit-based user interface.
+
+**Technologies:** Python, NLP, Scikit-learn, TF-IDF, Cosine Similarity, Streamlit
+
+---
+
+### 6. ✍️ AI Content Creator
+
+An AI-powered content generation application for creating blog posts and social media captions based on user preferences.
+
+**Key Features**
+- Generates blog content and social media captions.
+- Supports configurable tone, platform, and content length.
+- Integrates an LLM API for content generation.
+- Provides options to refine, review, and download generated content.
+
+**Technologies:** Python, Gemini API, Streamlit, Generative AI
+
+---
+
+## 📚 Currently Learning
+
+- 🧠 LLM fundamentals and Transformer architecture
+- 🔧 Parameter-Efficient Fine-Tuning (PEFT), LoRA, and QLoRA
+- 🔎 Advanced RAG and Agentic RAG architectures
+- 📊 RAG evaluation and tracing with LangSmith
+- 🐳 Docker and deployment workflows for AI applications
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=kay2005-12&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kay2005-12&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kay2005-12&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kay2005-12&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=kay2005-12&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=kay2005-12&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
 
-## Contact
+## 📫 Connect With Me
 
-Interested in AI/ML, Generative AI, RAG systems, and AI automation. Open to meaningful collaborations and opportunities to build practical AI applications.
+- 📧 **Email:** [kaysan8890@gmail.com](mailto:kaysan8890@gmail.com)
+- 💻 **GitHub:** [kay2005-12](https://github.com/kay2005-12)
 
-<p align="center">
-  <a href="mailto:kaysan8890@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/kay2005-12">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub Profile"/>
-  </a>
-</p>
+---
 
 <p align="center">
-  <i>Keep learning. Keep building. Keep pushing the limits.</i>
+  💡 <i>Building, learning, and improving one project at a time.</i>
 </p>
