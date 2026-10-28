@@ -68,6 +68,24 @@
   <img src="https://img.shields.io/badge/LangSmith_RAG_Evaluation-1C3C3C?style=flat-square&logoColor=white" alt="LangSmith" />
 </p>
 
+
+### 🔧 LLM Fine-Tuning
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" alt="Hugging Face" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="28" alt="Transformers" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PEFT-6A5ACD?style=flat-square&logoColor=white" height="28" alt="PEFT" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LoRA-7952B3?style=flat-square&logoColor=white" height="28" alt="LoRA" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/QLoRA-5C4EE5?style=flat-square&logoColor=white" height="28" alt="QLoRA" />
+</p>
+
+`Hugging Face Transformers` · `PEFT` · `LoRA` · `QLoRA` · `Fine-Tuning`
+
+
 ### ⚙️ Automation & Development Tools
 
 <p align="left">
